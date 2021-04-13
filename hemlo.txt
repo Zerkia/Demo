@@ -1,1 +1,9 @@
-Bash test
+ls to check all files in folder
+
+git add "file name" to start commiting that specific file
+
+git commit -m "[text here]" to change the commit text
+
+git push to push the changes
+
+git pull to copy the changes to the folder file on your local device
